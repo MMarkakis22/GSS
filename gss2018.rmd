@@ -166,6 +166,7 @@ $H_A$ : a persond opinion on death penalty is dependent of their race.
 ```{r}
 barchartGC(~CAPPUN+RACE, data=mydata4, main = 'Caipital Punishment vs. Race', type = 'percent', xlab = 'Capital Punishment')
 ```
+ 
  The bar chart suggests there is a connection between those who believe in capital punishment and their race. A persons opinion on capital punishment appears to be dependent of their race. White people tend to favor capital punishment more then blacks who are more likely ro oppose capital punishment. White tend to be more opinionated according to their alarmingly high number of votes to favor or oppose capital punishment.
 
 #### Numerical Descriptive Results
