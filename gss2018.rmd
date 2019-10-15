@@ -198,4 +198,3 @@ On question number 2, the p-value for the Chisq test is 0.08 > 0.05 so we fail t
 
 On question number 3,the p-value for the Chisq test is 0.0009 < 0.05 so we reject the null hypothesis and conclude we have the evidence to support the contention that ones opinion on capital punishment and their race are not connected.
 
-
